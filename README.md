@@ -1,0 +1,1 @@
+This repository is a file of jupyter notebook python codes for CNN models trained for a MSc in Geology study in which 2D and 3D CNN models were compared for ore grade estimation from 2D and 3D spectrograms. The models were further tested on the unseen data and ore grades were predicted for comparison.
